@@ -1,0 +1,4 @@
+#!/bin/bash
+# MD 文件同步工具 macOS 应用启动脚本
+cd "$(dirname "$0")"
+exec /opt/homebrew/bin/python3.10 main.py "$@"

@@ -1,0 +1,20 @@
+{
+  "obsidian_path": "/Users/wangxin/Library/CloudStorage/OneDrive-个人/文字/文字",
+  "projects": [
+    {
+      "name": "video sim",
+      "path": "/Users/wangxin/Documents/trae_projects/video_sim",
+      "subdir": "video_sim"
+    },
+    {
+      "name": "aba",
+      "path": "/Users/wangxin/Documents/bjcontents/AI_codex",
+      "subdir": "ABA"
+    },
+    {
+      "name": "awesomsdk",
+      "path": "/Users/wangxin/Documents/trae_projects/awesomsdk",
+      "subdir": "awesomsdk"
+    }
+  ]
+}
